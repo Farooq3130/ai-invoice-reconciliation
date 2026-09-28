@@ -1,3 +1,9 @@
+<<<<<< HEAD
+Your local text or project files
+=======
+# ai-invoice-reconciliation
+>>>>>>> origin/main
+
 # AI Invoice, Purchase Order & GRN Reconciliation System (Live Working Model)
 
 A full-stack autonomous three-way matching application for enterprise accounts payable. Built with React (Vite) in the frontend, Express and MySQL in the backend, and powered by live Groq LPU inference (`openai/gpt-oss-120b`).
@@ -122,3 +128,6 @@ npm run dev
 
 - `POST /api/system/reset-demo` - 1-click test data reset
 
+=======
+# ai-invoice-reconciliation
+>>>>>>> 5c79c99b18fc845dfca36efdd144f7371df77807
